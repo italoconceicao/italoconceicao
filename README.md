@@ -19,7 +19,9 @@ Me encontre no linkedin: <br>
 </div>
 
 ##
-<div style="display: inline_block" align="center"><br>
+
+<H2 align="center">SKILLS</H2>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
